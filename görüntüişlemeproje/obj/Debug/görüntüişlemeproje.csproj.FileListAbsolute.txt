@@ -1,0 +1,78 @@
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\görüntüişlemeproje.exe.config
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\görüntüişlemeproje.exe
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\görüntüişlemeproje.pdb
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Controls.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Genetic.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Imaging.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Math.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Neuro.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Vision.dll
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\IPPrototyper.exe
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Controls.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Genetic.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Imaging.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Math.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Neuro.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Vision.xml
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\obj\Debug\görüntüişlemeproje.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\obj\Debug\görüntüişlemeproje.Form1.resources
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\obj\Debug\görüntüişlemeproje.Properties.Resources.resources
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\obj\Debug\görüntüişlemeproje.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\obj\Debug\görüntüişlemeproje.exe
+C:\Users\Hp\Desktop\görüntüişlemeproje\görüntüişlemeproje\obj\Debug\görüntüişlemeproje.pdb
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\görüntüişlemeproje.exe.config
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\obj\Debug\görüntüişlemeproje.exe
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\obj\Debug\görüntüişlemeproje.pdb
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\obj\Debug\görüntüişlemeproje.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\obj\Debug\görüntüişlemeproje.Form1.resources
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\obj\Debug\görüntüişlemeproje.Properties.Resources.resources
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\obj\Debug\görüntüişlemeproje.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\görüntüişlemeproje.exe
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\görüntüişlemeproje.pdb
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Controls.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Genetic.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Imaging.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Math.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Neuro.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Hp\Desktop\Yeni klasör\görüntüişlemeproje\görüntüişlemeproje\bin\Debug\AForge.Vision.xml
